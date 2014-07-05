@@ -1,0 +1,169 @@
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.05 10.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.05 20.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.05 30.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.05 40.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.05 50.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.05 60.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.05 70.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.05 80.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.05 90.0 1 0 0
+
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.30 10.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.30 20.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.30 30.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.30 40.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.30 50.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.30 60.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.30 70.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.30 80.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.30 90.0 1 0 0
+
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.55 10.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.55 20.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.55 30.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.55 40.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.55 50.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.55 60.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.55 70.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.55 80.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.55 90.0 1 0 0
+
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.80 10.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.80 20.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.80 30.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.80 40.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.80 50.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.80 60.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.80 70.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.80 80.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 0.80 90.0 1 0 0
+
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.00 10.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.00 20.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.00 30.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.00 40.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.00 50.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.00 60.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.00 70.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.00 80.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.00 90.0 1 0 0
+
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.05 10.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.05 20.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.05 30.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.05 40.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.05 50.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.05 60.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.05 70.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.05 80.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.05 90.0 1 0 0
+
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.30 10.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.30 20.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.30 30.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.30 40.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.30 50.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.30 60.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.30 70.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.30 80.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.30 90.0 1 0 0
+
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.55 10.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.55 20.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.55 30.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.55 40.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.55 50.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.55 60.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.55 70.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.55 80.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.55 90.0 1 0 0
+
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.80 10.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.80 20.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.80 30.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.80 40.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.80 50.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.80 60.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.80 70.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.80 80.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge put 1.80 90.0 1 0 0
+
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.05 10.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.05 20.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.05 30.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.05 40.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.05 50.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.05 60.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.05 70.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.05 80.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.05 90.0 1 0 0
+
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.30 10.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.30 20.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.30 30.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.30 40.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.30 50.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.30 60.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.30 70.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.30 80.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.30 90.0 1 0 0
+
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.55 10.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.55 20.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.55 30.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.55 40.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.55 50.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.55 60.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.55 70.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.55 80.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.55 90.0 1 0 0
+
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.80 10.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.80 20.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.80 30.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.80 40.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.80 50.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.80 60.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.80 70.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.80 80.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 0.80 90.0 1 0 0
+
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.00 10.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.00 20.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.00 30.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.00 40.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.00 50.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.00 60.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.00 70.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.00 80.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.00 90.0 1 0 0
+
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.05 10.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.05 20.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.05 30.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.05 40.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.05 50.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.05 60.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.05 70.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.05 80.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.05 90.0 1 0 0
+
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.30 10.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.30 20.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.30 30.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.30 40.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.30 50.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.30 60.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.30 70.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.30 80.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.30 90.0 1 0 0
+
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.55 10.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.55 20.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.55 30.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.55 40.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.55 50.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.55 60.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.55 70.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.55 80.0 1 0 0
+./a.out -max_s_inc 0.1 -max_t_inc 0.02 -stock_price 50.0 -interest_rate 0.05 -max_vol 0.275 -min_vol 0.275 -price_only -hedge call 1.55 90.0 1 0 0

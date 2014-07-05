@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+# General set up
+export LIBARYS_PATH=`pwd`
+
+# Library version numbers
+export SDL_VER=2.0.3
+export SDLTTF_VER=2.0.12
+export SDLIMAGE_VER=2.0.0
+export FREEFONT_VER=20100919
+export FREETYPE_VER=2.4.10
+export SPD_VER=3_14
+export TBB_VER=41_20130613oss
+export FFTW_VER=3.2.2
+export BOOST_VER=1_54_0
+
+export BOOST_LIB_PATH=${LIBARYS_PATH}/boost_${BOOST_VER}/lib/
+export BOOST_INCLUDE_PATH=${LIBARYS_PATH}/boost_${BOOST_VER}/
+export BOOST_ROOT=${LIBARYS_PATH}/boost_${BOOST_VER}/tools/build/v2/
+
+# Thread Building Blocks setup
+export TBB_INSTALL_DIR=${LIBARYS_PATH}/tbb${TBB_VER}
+export TBB_INCLUDE_PATH=${TBB_INSTALL_DIR}/include/
+export TBB_LIB_PATH=${TBB_INSTALL_DIR}/build/build_release/
+if [ ! -d $TBB_INSTALL_DIR ]
+then
+    ( cd $LIBARYS_PATH ; make tbb$TBB_VER )
+fi
+source $TBB_INSTALL_DIR/build/build_release/tbbvars.sh
+
+#LD LIBRARY PATH
+export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:${TBB_LIB_PATH}
+export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:${BOOST_LIB_PATH}
+export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:${LIBARYS_PATH}/SDL2-${SDL_VER}/lib
+export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:${LIBARYS_PATH}/SDL2_ttf-${SDLTTF_VER}/lib
+export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:${LIBARYS_PATH}/SDL2_image-${SDLIMAGE_VER}/lib
+
+# Set up path
+export PATH=$LIBARYS_PATH/SDL2-$SDL_VER/bin:$PATH
+export PATH=${LIBARYS_PATH}/boost_${BOOST_VER}/tools/build/v2/:$PATH
+
